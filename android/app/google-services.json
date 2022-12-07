@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089195408104",
+    "project_id": "greengrocer-doctor",
+    "storage_bucket": "greengrocer-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089195408104:android:642e3c4844da031e89275d",
+        "android_client_info": {
+          "package_name": "com.example.greengrocer_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089195408104-nd46818n2la8ukn0l7shoml6kpmd5tve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DKkjcwICJA3zpD_VQUFsUUPfzS536TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089195408104-nd46818n2la8ukn0l7shoml6kpmd5tve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
